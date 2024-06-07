@@ -1,0 +1,16 @@
+{
+    "name": "steve/task_2",
+    "autoload": {
+        "psr-4": {
+            "app\\helpers\\": "src/app/helpers/",
+            "app\\models\\": "src/app/models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steve Ham",
+            "email": "astv99@outlook.com"
+        }
+    ],
+    "require": {}
+}
